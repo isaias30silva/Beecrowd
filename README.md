@@ -1,6 +1,6 @@
 # :hourglass_flowing_sand: beecrowd: exercícios resolvidos
 
-<center><img src = "beecrowd.jpg"></center>
+![](C:\Users\isaia\Documents\Estudos\Beecrowd\beecrowd.jpg)
 
 ## Descrição 
 
