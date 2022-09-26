@@ -2,6 +2,12 @@
 
 ![](C:\Users\isaia\Desktop\beecrowd.jpg)
 
+![Logo do beecrowd](C:\Users\isaia\Desktop\beecrowd.jpg)
+
+```
+![Logo do beecrowd](C:\Users\isaia\Desktop\beecrowd.jpg)
+```
+
 ## Descrição 
 
 > O beecrowd é uma comunidade global de desenvolvedores comprometidos em continuar evoluindo como estudantes e profissionais, com treinamento de algoritmos e desafios de programação.
