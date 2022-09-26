@@ -1,6 +1,6 @@
 # :hourglass_flowing_sand: beecrowd: exercícios resolvidos
 
-<img src = "beecrowd.jpg">
+<center><img src = "beecrowd.jpg"></center>
 
 ## Descrição 
 
@@ -12,7 +12,7 @@
 
 :link:https://www.beecrowd.com.br/judge/en/login
 
-### Exercícios resolvidos
+### Exercícios resolvidos em Java
 
 > Os exercícios listados abaixo foram resolvidos utilizando a linguagem Java. 
 >
