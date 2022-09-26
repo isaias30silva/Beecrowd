@@ -1,6 +1,6 @@
 # :hourglass_flowing_sand: beecrowd: exercícios resolvidos
 
-<img src = "beecrowd.jpg">
+<img scr = "beecrowd.jpg">
 
 ## Descrição 
 
