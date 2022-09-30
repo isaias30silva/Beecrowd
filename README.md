@@ -44,6 +44,12 @@
 
 :bulb:[1012 - Área](https://github.com/isaias30silva/Beecrowd/blob/master/Beecrowd_1/src/Area1012/Main.java)
 
+:bulb:[1013 - O Maior](https://github.com/isaias30silva/Beecrowd/blob/master/Beecrowd_1/src/OMaior1013/Main.java)
+
+:bulb:[1014 - Consumo](https://github.com/isaias30silva/Beecrowd/blob/master/Beecrowd_1/src/Consumo1014/Main.java)
+
+:bulb:[1015 - Distância entre Dois Pontos](https://github.com/isaias30silva/Beecrowd/blob/master/Beecrowd_1/src/DistanciaEntreDoisPontos1015/Main.java)
+
 
 
 
