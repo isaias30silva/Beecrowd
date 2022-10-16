@@ -50,6 +50,16 @@
 
 :bulb:[1015 - Distância entre Dois Pontos](https://github.com/isaias30silva/Beecrowd/blob/master/Beecrowd_1/src/DistanciaEntreDoisPontos1015/Main.java)
 
+:bulb:[1016 - Distância](https://github.com/isaias30silva/Beecrowd/blob/master/Beecrowd_1/src/Distancia1016/Main.java)
+
+:bulb:[1017 - Gasto de Combustível](https://github.com/isaias30silva/Beecrowd/blob/master/Beecrowd_1/src/GastoCombustive1017/Main.java)
+
+:bulb:[1018 - Cédulas](https://github.com/isaias30silva/Beecrowd/blob/master/Beecrowd_1/src/Cedulas1018/Main.java)
+
+:bulb:[1019 - Conversão de Tempo](https://github.com/isaias30silva/Beecrowd/blob/master/Beecrowd_1/src/ConversaoDeTempo1019/Main.java)
+
+:bulb:[1020 - Idade em Dias](https://github.com/isaias30silva/Beecrowd/blob/master/Beecrowd_1/src/IdadeEmDias1020/Main.java)
+
 
 
 
