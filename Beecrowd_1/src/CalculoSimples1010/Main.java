@@ -22,11 +22,9 @@ public class Main {
 		Scanner teclado = new Scanner(System.in);
 		teclado.useLocale(Locale.US);
 		
-		int peca1 = teclado.nextInt();
 		int numeroP1 = teclado.nextInt();
 		double valorP1 = teclado.nextDouble();
 		
-		int peca2 = teclado.nextInt();
 		int numeroP2 = teclado.nextInt();
 		double valorP2 = teclado.nextDouble();
 		

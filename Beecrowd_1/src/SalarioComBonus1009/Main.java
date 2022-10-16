@@ -22,7 +22,6 @@ public class Main {
 		Scanner teclado = new Scanner(System.in);
 		teclado.useLocale(Locale.US);
 		
-		String nome = teclado.next();
 		double salario = teclado.nextDouble();
 		double totalVendas = teclado.nextDouble();
 		
